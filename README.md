@@ -1,6 +1,6 @@
 markdown
 Copier le code
-# Mon Premier Projet Git
-Ceci est mon premier projet avec Git et GitHub.
+# Code2Gen
+Ceci est mon premier projet Code2Gen sur GitHub.
 
 Je suis en train d'apprendre les branches Git !
